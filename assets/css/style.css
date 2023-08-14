@@ -16,7 +16,10 @@ body {
 	background-color: black;
 	color: black;
 }
-
+img{
+	max-height: 250px;
+	max-width: 150px;
+}
 
 a {
 	text-decoration: none;
